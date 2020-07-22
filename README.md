@@ -3,7 +3,7 @@
 <center>ref: <a href=https://www.youtube.com/watch?v=9oR7F0CfcZY&t=1680s>link</a>
   
   
-<img src='stacking.png' width='200' height='500'>
+<img src='stacking.png' width='500' height='200'>
 
 ## Diversity
 * **Dataset**(Feature Engineering)
@@ -26,7 +26,7 @@
 * **Approach**: team up!
 * **Target Transformation**(in Regression problems, log(x), 1/x)
 * **Stacking Architectures**
-<img src='stacking_architecture.png' width='200' height='500'>
+<img src='stacking_architecture.png' width='500' height='200'>
 
 ## Cross-Validation
 * Define the folds
@@ -34,7 +34,7 @@
 * Use the same indexes to train and tune all level models
 
 ## Stacking Workflow
-<img src='stacking_workflow.png' width=200 height=500>
+<img src='stacking_workflow.png' width=500 height=200>
 
 ## Improving Stacking Performance
 * Feature Engineering Never Giveup
