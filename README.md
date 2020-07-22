@@ -1,6 +1,6 @@
-# <center> Stacking Strategies by GIBA 
+# <center> Stacking Strategies by GIBA </center>
   
-<center>ref: <a href=https://www.youtube.com/watch?v=9oR7F0CfcZY&t=1680s>link</a>
+<center>ref: <a href=https://www.youtube.com/watch?v=9oR7F0CfcZY&t=1680s>link</a> </center>
   
   
 <img src='stacking.png' width='500' height='200'>
